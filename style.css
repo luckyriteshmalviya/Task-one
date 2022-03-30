@@ -1,0 +1,50 @@
+body {
+  background-color: lightgray;
+}
+
+.right {
+  width: 50%;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  float: right;
+}
+
+.left {
+  width: 50%;
+  background-color: lightgray;
+  padding-top: 70px;
+  float: left;
+}
+.one {
+  padding-left: 75px;
+  background-color: rgb(255, 255, 255);
+  margin-left: 370px;
+}
+
+.two {
+  margin-left: 370px;
+  margin-top: -18px;
+  padding-top: 5px;
+  padding-left: 75px;
+  padding-bottom: 1px;
+  background-color: rgb(255, 255, 255);
+}
+
+.form2 {
+  background-color: blue;
+  border-radius: 30px;
+  padding-left: 136px;
+  padding-right: 136px;
+  padding-top: 8px;
+  padding-bottom: 6px;
+  color: aliceblue;
+}
+
+.form1 {
+  border-radius: 20px;
+  background-color: white;
+  padding-left: 95px;
+  padding-right: 95px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
